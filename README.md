@@ -1,2 +1,2 @@
 # termux-helloworld
-uselesss 1 line program
+extremely useful 1 line program
